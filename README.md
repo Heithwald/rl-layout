@@ -2,5 +2,5 @@
 
 - проект создан на базе CRA
 
-Ссылка на деплой: 
+Ссылка на деплой: https://heithwald.github.io/rl-layout/
 
